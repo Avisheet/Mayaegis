@@ -1,0 +1,9 @@
+.venv/
+backend/node_modules/
+frontend/__pycache__/
+mayaegis/__pycache__/
+mayaegis/tools/__pycache__/
+.env
+.template_env
+cli.sh
+needs.txt
